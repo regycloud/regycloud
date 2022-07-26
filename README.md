@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @regycloud
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning JavaScript
-- 📫 How to reach me regy.rhp@gmail.con
+- 👋 Hi, I’m @regycloud. こんにちはレギです。どうぞよろしくお願いしま~す🙇
 
 <!---
 regycloud/regycloud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
